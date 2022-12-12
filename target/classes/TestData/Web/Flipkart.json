@@ -1,0 +1,28 @@
+{
+  "Flipkart": {
+
+  "FIN":
+  [
+    {
+      "Id": "Flipkart1",
+      "Sample": "Flipkart FIN User1"
+    },
+    {
+      "Id": "Flipkart2",
+      "Sample": "Flipkart FIN User2"
+    }
+  ],
+    "FAC":
+    [
+      {
+        "Id": "Flipkart1",
+        "Sample": "Flipkart FAC User1"
+      },
+      {
+        "Id": "Flipkart2",
+        "Sample": "Flipkart FAC User2"
+      }
+    ]
+}
+
+}

@@ -1,0 +1,13 @@
+{
+  "Amazon":
+  [
+    {
+      "Id": "Amazon1",
+      "Sample":"Amazon User1"
+    },
+    {
+      "Id": "Amazon2",
+      "Sample":"Amazon User2"
+    }
+  ]
+}
